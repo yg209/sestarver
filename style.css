@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  background: linear-gradient(to right, #002233, #003a55);
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+.logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+.tagline {
+  font-size: 1.2em;
+  margin: 20px auto;
+}
+#connectBtn {
+  background-color: #00ffd1;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#walletInfo {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #00ffd1;
+}
