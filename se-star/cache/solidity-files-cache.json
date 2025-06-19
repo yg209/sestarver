@@ -1,0 +1,215 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\se-star\\contracts\\EscrowVault.sol": {
+      "lastModificationDate": 1749865766544,
+      "contentHash": "0a20ab0e6b4d3f332dcf7ba4be3750a8",
+      "sourceName": "contracts/EscrowVault.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "EscrowVault"
+      ]
+    },
+    "C:\\se-star\\contracts\\aiagent.sol": {
+      "lastModificationDate": 1749865660168,
+      "contentHash": "e18fb07cb2dbb72a57a1f1115edc9de9",
+      "sourceName": "contracts/aiagent.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "AIAgent"
+      ]
+    },
+    "C:\\se-star\\contracts\\Custodyvault.sol": {
+      "lastModificationDate": 1749865893284,
+      "contentHash": "bc1b2705155858539d07bf8a3c0121ee",
+      "sourceName": "contracts/Custodyvault.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "CustodyVault"
+      ]
+    },
+    "C:\\se-star\\contracts\\escrow.sol": {
+      "lastModificationDate": 1749865599432,
+      "contentHash": "2cb1b88ee276d5d469ebc56af486dfa1",
+      "sourceName": "contracts/escrow.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Escrow"
+      ]
+    },
+    "C:\\se-star\\contracts\\SEGuard.sol": {
+      "lastModificationDate": 1749865819994,
+      "contentHash": "8a20e14be2577eff2ae74e5c3c60dea0",
+      "sourceName": "contracts/SEGuard.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "SEGuard"
+      ]
+    },
+    "C:\\se-star\\contracts\\Trustwall.sol": {
+      "lastModificationDate": 1749865712037,
+      "contentHash": "207ecef30babc6d81211378dbec0b9b6",
+      "sourceName": "contracts/Trustwall.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "TrustWall"
+      ]
+    }
+  }
+}

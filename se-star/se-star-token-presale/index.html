@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SE-STAR Token Presale</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="SE-STAR Logo" class="logo"/>
+    <h1>SE-STAR (SST) Token Presale</h1>
+    <p class="tagline">Built for Safety. Powered by Truth.<br/>SE-STAR = NO PHISHING</p>
+    <div class="countdown">
+      <h2>Presale Launches In:</h2>
+      <div id="timer">Loading...</div>
+    </div>
+    <a href="#" class="btn">Join Whitelist</a>
+    <p class="footer">© 2025 SE-STAR. All rights reserved.</p>
+  </div>
+  <script>
+    const launchDate = new Date("2025-10-01T00:00:00").getTime();
+    const timer = document.getElementById("timer");
+    setInterval(() => {
+      const now = new Date().getTime();
+      const diff = launchDate - now;
+      const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+      timer.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+    }, 1000);
+  </script>
+</body>
+</html>

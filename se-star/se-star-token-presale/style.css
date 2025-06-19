@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  font-family: 'Arial', sans-serif;
+  color: white;
+  text-align: center;
+}
+.container {
+  padding: 60px 20px;
+}
+.logo {
+  max-width: 120px;
+}
+.tagline {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+.countdown h2 {
+  margin: 30px 0 10px;
+}
+#timer {
+  font-size: 2em;
+  font-weight: bold;
+  color: #00ffd1;
+}
+.btn {
+  margin-top: 20px;
+  padding: 12px 30px;
+  background: #00ffd1;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  display: inline-block;
+}
+.footer {
+  margin-top: 60px;
+  font-size: 0.8em;
+  color: #aaa;
+}
